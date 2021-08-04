@@ -1,0 +1,16 @@
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\bin\Debug\net5.0\scae.exe
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\bin\Debug\net5.0\scae.deps.json
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\bin\Debug\net5.0\scae.runtimeconfig.json
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\bin\Debug\net5.0\scae.runtimeconfig.dev.json
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\bin\Debug\net5.0\scae.dll
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\bin\Debug\net5.0\ref\scae.dll
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\bin\Debug\net5.0\scae.pdb
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\obj\Debug\net5.0\scae.csproj.AssemblyReference.cache
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\obj\Debug\net5.0\scae.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\obj\Debug\net5.0\scae.AssemblyInfoInputs.cache
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\obj\Debug\net5.0\scae.AssemblyInfo.cs
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\obj\Debug\net5.0\scae.csproj.CoreCompileInputs.cache
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\obj\Debug\net5.0\scae.dll
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\obj\Debug\net5.0\ref\scae.dll
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\obj\Debug\net5.0\scae.pdb
+C:\Users\TIAGO\desktop\PROJETOS\.NET  e  C#\scae\obj\Debug\net5.0\scae.genruntimeconfig.cache
